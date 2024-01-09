@@ -1,7 +1,7 @@
 # Hello, I'm Fahmi 👋
 
 ## About me
-- 🌱 I'm currently learning at the [Apple Developer Academy, Unina](https://developer.apple.com/academy/).
+- 🌱 I'm currently learning at the [Apple Developer Academy, Unina](https://www.developeracademy.unina.it/en/).
 - 💼 I have a year of professional experience working as a backend developer.
 
 ## Projects
