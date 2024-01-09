@@ -5,8 +5,8 @@
 - 💼 I have a year of professional experience working as a backend developer.
 
 ## Projects
-- [Project 1](https://github.com/Man4ct/3d-island-portfolio)
-- [Project 2](https://github.com/Man4ct/3d-clothing-shop)
+- [3D-Island-Portfolio](https://github.com/Man4ct/3d-island-portfolio)
+- [3D-Clothing-Shop](https://github.com/Man4ct/3d-clothing-shop)
 
 ## Skills
 - Programming Languages: Javascript/Nodejs, Swift, Python
