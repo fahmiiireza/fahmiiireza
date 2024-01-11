@@ -1,7 +1,7 @@
 # Hello, I'm Fahmi 👋
 
 ## About me
-- 🌱 I'm currently learning at the [Apple Developer Academy, Unina](https://www.developeracademy.unina.it/en/).
+- 🌱 I specialize in Backend Developer leveraging NodeJs, MongoDB, Express and GraphQL API
 - 💼 I have a year of professional experience working as a backend developer.
 
 ## Projects
