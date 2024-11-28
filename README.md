@@ -19,7 +19,6 @@
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/fahmi-fahreza-791a531b0/)
-- [Instagram](https://www.instagram.com/fahmiiireza)
 
 <!--
 **Man4ct/Man4ct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
