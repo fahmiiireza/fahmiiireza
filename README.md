@@ -1,36 +1,25 @@
 # Hello, I'm Fahmi 👋
 
-## About me
-- 🌱 I specialize in Backend Developer leveraging NodeJs, MongoDB, Express and GraphQL API
-- 💼 I have a year of professional experience working as a backend developer.
+## About Me
+- 👨‍💻 Backend Developer with ~3 years of experience building scalable APIs and systems.
+- 🚀 Experienced in developing RESTful and GraphQL APIs using Go, Node.js (Express), and Python (Flask).
+- 🗄️ Proficient and hands-on experience with PostgreSQL and MongoDB.
+- ⚙️ Familiar with Docker, Kubernetes, AWS, Render, and CI/CD tools like GitHub Actions and Jenkins.
+- 🧠 Understands system architecture concepts including microservices and client-server models.
+- 📅 Comfortable working in Agile/Scrum environments with sprint-based workflows.
 
 ## Projects
 - [3D-Island-Portfolio](https://github.com/Man4ct/3d-island-portfolio)
 - [3D-Clothing-Shop](https://github.com/Man4ct/3d-clothing-shop)
 
 ## Skills
-- Programming Languages: Javascript/Nodejs, Swift, Python
-- Database Technologies: MySQL, MongoDB
-- Frameworks: Express, React
-- Version Control: Git
-- Cloud Platforms: Vercel, Heroku
-- API Design and Development: RESTful APIs, GraphQL
-- Web Technologies: HTML, CSS, TailwindCSS
+- **Languages:** Go, JavaScript/Node.js, Python, Swift
+- **Databases:** PostgreSQL, MongoDB, MySQL
+- **Frameworks:** Express, Flask, React
+- **DevOps & Tools:** Docker, Kubernetes, Git, GitHub Actions, Jenkins
+- **Cloud Platforms:** AWS, Render, Vercel, Heroku
+- **API Design:** REST, GraphQL
+- **Web:** HTML, CSS, TailwindCSS
 
-## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/fahmi-fahreza-791a531b0/)
-
-<!--
-**Man4ct/Man4ct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/fahmiiireza/)
